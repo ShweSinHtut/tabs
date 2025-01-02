@@ -1,2 +1,1 @@
-# tabs
-https://shwesinhtut.github.io/tabs/ 
+(https://roadmap.sh/projects/simple-tabs)
